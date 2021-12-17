@@ -20,5 +20,7 @@ SVM (Support Vector Machine)을 이용해 조기폐경 여부를 예측하고자
 
 ## Constructure
 |----README.md
+
 |----EDA.ipynb
+
 |----SVM_최종.ipynb
